@@ -1,0 +1,3 @@
+﻿  Transformations.cpp
+C:\Users\ktpen\OneDrive\Desktop\OpenGL\OpenGL_Start\OpenGL_Start\src\Transformations.cpp(22,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL_Start.vcxproj -> C:\Users\ktpen\OneDrive\Desktop\OpenGL\OpenGL_Start\x64\Debug\OpenGL_Start.exe
